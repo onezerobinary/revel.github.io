@@ -52,7 +52,7 @@ GET     /App/Hello     App.Hello
 {% endraw %}{% endcapture %}
 {% highlight htmldjango %}{{ex}}{% endhighlight %}
 
-Refresh the page, and you should see a greeting:
+Restart the application, and you should see a greeting:
 
 ![Hello revel](/img/HelloRevel.png)
 
